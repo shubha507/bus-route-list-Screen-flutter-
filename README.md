@@ -1,7 +1,7 @@
 # bus-route-list-Screen-flutter
 A bus route list screen which shows future routes of Bus and it refreshes every minute.
 
-# test_app
+![iPhone_screenshot](https://github.com/shubha507/bus-route-list-Screen-flutter-/assets/69707229/18b2638f-c8cb-451f-97ee-38a75fbebda5)
 
 A new Flutter project.
 
